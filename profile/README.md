@@ -1,7 +1,7 @@
 
 Identification pilots for the [World Flora Online](https://www.worldfloraonline.org/)
 
-The World Flora Online (WFO) is a project which aggregates information about plant species. It uses a taxonomic backbone to organise descriptive information (textual descriptions and images). A subset of the project partners are working on identification tools. This "ID task force" group has proposed a number of pilots, this github organisation is a container for these projects.
+The World Flora Online (WFO) is a project which aggregates information about plant species. It uses a taxonomic backbone to organise descriptive information (textual descriptions and images). Management of the taxonomic backbone and mobilisation of descriptive data is devolved to a community of Taxonomic Expert networks (TENs). A subset of the project partners are working on identification tools. This "ID task force" group has proposed a number of pilots, this github organisation is a container for these projects.
 
 Currently the pilots are:
 
