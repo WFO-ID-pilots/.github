@@ -16,7 +16,7 @@ The ID task force meets monthly (?) and currently has the following membership:
 - Eve Lucas - senior research leader in accelerated taxonomy at RBG Kew. [Institutional profile](https://www.kew.org/science/our-science/people/eve-j-lucas), ORCID: [0000-0002-7603-435X](https://orcid.org/0000-0002-7603-435X)
 - Visotheary Ung - MNHN, Paris. [Institutional profile](https://isyeb.mnhn.fr/en/directory/visotheary-ung-4696), ORCID: [0000-0002-4049-0820](https://orcid.org/0000-0002-4049-0820)
 - Nicky Nicolson - senior research leader in digital collections at RBG Kew. [Institutional profile](https://www.kew.org/science/our-science/people/nicky-nicolson), ORCID: [0000-0003-3700-4884](https://orcid.org/0000-0003-3700-4884)
-- Young Jun Lee - 3rd-year MBiol Biology student at University of Oxford, summer science intern [Institutional profile](https://www.salgo.ox.ac.uk/people/young-jun-lee), ORCID:[0000-0002-4989-9956](https://orcid.org/0000-0002-4989-9956)
+- Young Jun Lee - 4th-year MBiol Biology student at University of Oxford, summer science intern [Institutional profile](https://www.salgo.ox.ac.uk/people/young-jun-lee), ORCID:[0000-0002-4989-9956](https://orcid.org/0000-0002-4989-9956)
 
 ## Other contacts
 
