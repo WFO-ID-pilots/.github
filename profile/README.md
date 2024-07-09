@@ -19,8 +19,9 @@ The ID task force meets monthly (?) and currently has the following membership:
 
 ## Other contacts
 
+- Alan Elliot - WFO community manager, RBG Edinburgh [institutional profile](https://www.rbge.org.uk/about-us/who-we-are/staff/major-floras/dr-alan-elliott-bioinformatician/), ORCID: [0000-0002-8677-5688](https://orcid.org/0000-0002-8677-5688)
 - Pierre Bonnet - PlantNet. Institutional profile, ORCID: [0000-0002-2828-4389](https://orcid.org/0000-0002-2828-4389)
 
 ## Contributing
 
-The github organisation has a [discussion board](https://github.com/orgs/WFO-ID-pilots/discussions) feature - here you can start threaded discussions on the combining text and image inputs when conducting and analysing plant identifications. Contributions of relevant research papers, software tools etc are welcomed. Each of the pilot projects will also accept contributions as github issues - examine the dedicated project pages for details.
+The github organisation has a [discussion board](https://github.com/orgs/WFO-ID-pilots/discussions) feature - here you can start threaded discussions on the combination of text and image inputs when conducting and analysing plant identifications. Contributions of relevant research papers, software tools etc are welcomed. Each of the pilot projects will also accept contributions as github issues - examine the dedicated project pages for details.
