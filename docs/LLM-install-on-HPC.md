@@ -24,14 +24,18 @@ The instructions below note which machine you should run each on:
     1. Download the ollama release: `wget https://github.com/ollama/ollama/releases/download/v0.1.47/ollama-linux-amd64`
     2. Make it executable: `chmod 755 ollama-linux-amd64`
     3. Create a softlink: `ln -s ollama-linux-amd64 ollama` 
-    4. Install a minimal model (for speed of download): `./ollama run tinyllama`
-    5. Set the environment OLLAMA_HOST environment variable: `export OLLAMA_HOST=0.0.0.0:11435`
-    6. Run the ollama server as a background process: `./ollama serve &`
+    4. Set the environment OLLAMA_HOST environment variable: `export OLLAMA_HOST=0.0.0.0:11435`
+    5. Run the ollama server as a background process: `./ollama serve &`
+    6. Run this command once to install a minimal model (for speed of download): `./ollama run tinyllama`
+    7. Exit the interactive chat by typing `/bye`
 1. *(local machine)* Set up port forwarding. In a command line shell in your local environment, execute:   
-    `ssh -L11434:GPU_MACHINE_NAME.cropdiversity.ac.uk:11435 YOUR_HPC_USER_NAME@gruffalo.cropdiversity.ac.uk`
+    `ssh -L 11434:GPU_MACHINE_NAME:11435 YOUR_HPC_USER_NAME@gruffalo.cropdiversity.ac.uk`
 
    Substitute GPU_MACHINE_NAME and YOUR_HPC_USER_NAME appropriately.
 1. *(local machine)* Open the Ollama test page in your local browser at https://127.0.0.1:11434
+1. *(compute node)* If the Ollama server is no longer in use, either:
+    1. Run `pgrep ollama` to find the process ID(s) of the Ollama server and kill them by doing `kill PROCESS_ID`
+    1. Type `exit` to exit out of the node; All processes running on the node will be automatically halted
 
 ## Using the LLM
 
