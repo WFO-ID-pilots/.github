@@ -110,7 +110,7 @@ ollama run llama3
 ### 5. *(Local Machine)* Set Up Port Forwarding
 To access the model from your local machine, set up SSH port forwarding:
 ```bash
-ssh -L18199:GPU_NODE_NAME.cropdiversity.ac.uk:18199 YOUR_HPC_USER_NAME@gruffalo.cropdiversity.ac.uk
+ssh -L18199:GPU_NODE_NAME.hpc.hutton.ac.uk:18199 YOUR_HPC_USER_NAME@gruffalo.cropdiversity.ac.uk
 ```
 Replace `GPU_NODE_NAME` with your assigned compute node (e.g., `gpu-node-01`) and `YOUR_HPC_USER_NAME` with your username.
 
